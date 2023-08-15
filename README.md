@@ -1,5 +1,5 @@
-#Git Basics
+# Git Basics
 
 ## Git Branches 
 
-testing
+## testing
